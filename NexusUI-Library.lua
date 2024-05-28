@@ -1753,7 +1753,7 @@ function library:Init()
 	end
 	self.base.Parent = game:GetService"CoreGui"
 	self.base.ResetOnSpawn = true
-	self.base.Name = "ToraScript"
+	self.base.Name = "NexusUI"
 	
 	
 	for _, window in next, self.windows do
