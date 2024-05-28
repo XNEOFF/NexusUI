@@ -133,7 +133,7 @@ function parent:AddLabel(option)
 		
 		return option
 	end
-___
+_________________________________________________________________
 Explain Uses:
 
 This Lua script defines several functions within a `parent` object. These functions are used to add different types of UI elements to a window. Here's a breakdown of each function:
