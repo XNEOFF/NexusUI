@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/NexusUI/main/NexusUI-Library.lua", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/NexusUI/main/NexusUI-Library-V1.lua", true))()
 
 local window = library:CreateWindow("Game Settings")
 
